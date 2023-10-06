@@ -1,0 +1,152 @@
+.div1{
+  height:1500px;
+  background-image: url(imgs/contactus.png);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.divcenter{
+  height: 1100px;
+  width: 1100px;
+  background-image: url(imgs/contactus.png);
+  background-size: cover;
+  background-position: center;
+  margin-top: 100px;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;   
+}
+
+.container {
+
+text-align: center;
+background-color: none;
+color: black;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+font-size: 50px;
+}
+
+
+input[type=text], input[type=submit] {
+width: 60%;
+align-self: center;
+align-items: center;
+
+margin: 8px 0;
+display:flex;
+flex-direction: column;
+border: none;
+
+box-sizing: border-box;
+
+}
+input[type=submit] {
+background-color:black;
+color: antiquewhite;
+border: none;
+width: 100%;
+font-family: Italiana, serif;
+margin-bottom: 400px;
+width: 100px;
+height: 40px;
+padding-top: 10px;
+padding-left: 10px;
+padding-right: 10px;
+border-radius: 2px;
+font-size: 16px;
+text-align: center;
+margin-bottom: 400px;
+}
+.grumble{
+font-size: 25px;
+
+}
+.nav{
+height: 30px;
+width: 1200px;
+font-size: 18px;
+display: flex;
+justify-content: space-between;
+align-self: center;
+justify-self: flex-start;
+
+
+
+}
+
+
+
+
+.homelink{
+color: black;
+text-decoration: none;
+}
+.homelink:link{
+color: black;
+text-decoration: none;
+}
+.homelink:visited{
+color: black;
+text-decoration: none;
+}
+
+.mousielink{
+color: black;
+text-decoration: none;
+}
+.mousielink:link{
+color: black;
+text-decoration: none;
+}
+.mousielink:visited{
+color:black;
+text-decoration: none;
+}
+
+.ourfriendslink{
+color: black;
+text-decoration: none;
+}
+.ourfriendslink:link{
+color: black;
+text-decoration: none;
+}
+.ourfriendslink:visited{
+color:black;
+text-decoration: none;
+}
+.gallerylink{
+color: black
+text-decoration: none;
+}
+.gallerylink:link{
+color: black;
+text-decoration: none;
+}
+.gallerylink:visited{
+color: black;
+text-decoration: none;
+}
+.botlink{
+color: black;
+text-decoration: none;
+
+}
+.botlink:link{
+color: black;
+text-decoration: none;
+
+}
+.botlink:visited{
+color: black;
+text-decoration: none;
+
+}

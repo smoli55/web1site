@@ -1,0 +1,113 @@
+.hero{
+  height: 1700x;
+  width: 100%;
+  background-color: rgb(153,153,51);
+  color: antiquewhite;
+  font-family: 'Italiana', serif;
+  display: flex;
+  flex-direction: column;
+}
+.nav{
+  height: 20px;
+  width: 1200px;
+  font-size: 11px;
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+  margin-top: 15px;
+}
+.homelink{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.homelink:link{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.homelink:visited{
+  color: antiquewhite;
+  text-decoration: none;
+}
+
+.botlink{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.botlink:link{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.botlink:visited{
+  color: antiquewhite;
+  text-decoration: none;
+}
+
+.ourfriendslink{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.ourfriendslink:link{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.ourfriendslink:visited{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.gallerylink{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.gallerylink:link{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.gallerylink:visited{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.contactuslink{
+  color: antiquewhite;
+  text-decoration: none;
+
+}
+.contactuslink:link{
+  color: antiquewhite;
+  text-decoration: none;
+
+}
+.contactuslink:visited{
+  color: antiquewhite;
+  text-decoration: none;
+
+}
+.mousieintro{
+  height: 75px;
+  width: 600px;
+  font-size: 20px;
+  text-wrap: wrap;
+  margin-left: 100px;
+  margin-top: 70px;
+}
+.blanketmousie{
+  width: 507px;
+  height: 672px;
+  margin-left: 560px;
+  margin-top: 125px;
+}
+.title{
+  height: 200px;
+  width: 200px;
+  font-size: 120px;
+  text-wrap: wrap;
+  margin-bottom: 100px;
+  margin-left: 150px;
+}
+.facts{
+  width: 1000px;
+  height: 30px;
+  display: flex;
+  align-self:center;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;}

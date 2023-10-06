@@ -1,0 +1,98 @@
+.gallery{
+  display: flex;
+flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+flex-direction: row;
+max-height: 200vh;
+gap: 10px;
+  }
+.gallery img{
+    max-width: 23vw;
+}
+.nav{
+height: 20px;
+width: 100%;
+font-size: 11px;
+display: flex;
+justify-content: space-around;
+align-self: center;
+align-items: center;
+background-color: darkkhaki;
+font-family: italiana,serif;
+}
+.homelink{
+color: antiquewhite;
+text-decoration: none;
+}
+.homelink:link{
+color: antiquewhite;
+text-decoration: none;
+}
+.homelink:visited{
+color: antiquewhite;
+text-decoration: none;
+}
+
+.mousielink{
+color: antiquewhite;
+text-decoration: none;
+}
+.mousielink:link{
+color: antiquewhite;
+text-decoration: none;
+}
+.mousielink:visited{
+color: antiquewhite;
+text-decoration: none;
+}
+
+.botlink{
+color: antiquewhite;
+text-decoration: none;
+}
+.botlink:link{
+color: antiquewhite;
+text-decoration: none;
+}
+.botlink:visited{
+color: antiquewhite;
+text-decoration: none;
+}
+.gallerylink{
+color: antiquewhite;
+text-decoration: none;
+}
+.gallerylink:link{
+color: antiquewhite;
+text-decoration: none;
+}
+.gallerylink:visited{
+color: antiquewhite;
+text-decoration: none;
+}
+.contactuslink{
+color: antiquewhite;
+text-decoration: none;
+
+}
+.contactuslink:link{
+color: antiquewhite;
+text-decoration: none;
+
+}
+.contactuslink:visited{
+color: antiquewhite;
+text-decoration: none;
+
+}
+.title{
+width: 100%;
+text-align: center;
+font-family: italiana, serif;
+font-size: 40px;
+}
+.footer{
+width: 100%;
+height: 15px;
+}

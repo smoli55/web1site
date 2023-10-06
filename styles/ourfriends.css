@@ -1,0 +1,253 @@
+.nav{
+  height: 30px;
+  width: 100%px;
+  font-size: 11px;
+  display: flex;
+  justify-content: space-around;
+  align-self: center;
+  
+  font-family: 'Italiana', serif;
+  align-items: center;
+  background-color: black;
+}
+
+
+
+
+.homelink{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.homelink:link{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.homelink:visited{
+  color: antiquewhite;
+  text-decoration: none;
+}
+
+.mousielink{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.mousielink:link{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.mousielink:visited{
+  color: antiquewhite;
+  text-decoration: none;
+}
+
+.botlink{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.botlink:link{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.botlink:visited{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.gallerylink{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.gallerylink:link{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.gallerylink:visited{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.contactuslink{
+  color: antiquewhite;
+  text-decoration: none;
+
+}
+.contactuslink:link{
+  color: antiquewhite;
+  text-decoration: none;
+
+}
+.contactuslink:visited{
+  color: antiquewhite;
+  text-decoration: none;
+
+}
+      .mischacontainer{
+        width: 100%;
+        height: min-content;
+        background-color: rgb(203,104,40);
+        color: antiquewhite;
+        display: flex;
+        flex-direction: column;
+        font-family: 'Italiana', serif;
+      }
+      .mischasubcontainer{
+        display: flex;
+        justify-items: center;
+        align-items: center;
+        height: min-content;
+        width: 100%;
+        justify-content: space-around;
+        padding-bottom: 15px;
+      }
+      .mischatitle{
+        font-size: 45px;
+        margin-top: 50px;
+        margin-left: 50px;
+        width: min-content;
+        height: min-content;
+      }
+      .mimgcontainer{ 
+        width: min-content;
+        height: min-content;
+        margin-top: 50px;
+        
+
+      }
+      .mischafacts{
+      width: 1000px;
+      height: 30px;
+      display: flex;
+      align-self:center;
+      justify-content: space-between;
+       align-items: center;
+       padding-top: 15px;
+       padding-bottom: 15px;
+
+}
+      .mischapic{
+        width: 216px;
+        height: 288px;
+       
+      }
+      .mischacontainer2{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+      }
+
+
+      .nucontainer{
+        width: 100%;
+        height: min-content;
+        background-color: rgb(215,199,163);
+        color: antiquewhite;
+        display: flex;
+        flex-direction: column;
+        font-family: 'Italiana', serif;
+      }
+      .nusubcontainer{
+        display: flex;
+        justify-items: center;
+        align-items: center;
+        height: min-content;
+        width: 100%;
+        justify-content: space-around;
+        padding-bottom: 15px;
+      }
+      .nutitle{
+        font-size: 45px;
+        margin-top: 50px;
+        margin-left: 50px;
+        width: min-content;
+        height: min-content;
+        margin-bottom: 20px;
+      }
+      .nimgcontainer{ 
+        width: min-content;
+        height: min-content;
+        margin-top: 50px;
+        
+
+      }
+      .nufacts{
+      width: 1000px;
+      height: 30px;
+      display: flex;
+      align-self:center;
+      justify-content: space-between;
+       align-items: center;
+       padding-top: 15px;
+       padding-bottom: 15px;
+
+}
+      .nupic{
+        width: 216px;
+        height: 288px;
+      }
+      .nucontainer2{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+      }
+ 
+      
+
+      .benitocontainer{
+        width: 100%;
+        height: min-content;
+        background-color: rgb(27,30,35);
+        color: antiquewhite;
+        display: flex;
+        flex-direction: column;
+        font-family: 'Italiana', serif;
+        padding-bottom: 50px;
+      }
+      .benitosubcontainer{
+        display: flex;
+        justify-items: center;
+        align-items: center;
+        height: min-content;
+        width: 100%;
+        justify-content: space-around;
+        padding-bottom: 15px;
+      }
+      .benitotitle{
+        font-size: 45px;
+        margin-top: 50px;
+        margin-left: 50px;
+        width: min-content;
+        height: min-content;
+      }
+      .bimgcontainer{ 
+        width: min-content;
+        height: min-content;
+        margin-top: 50px;
+        
+
+      }
+      .benitofacts{
+      width: 1000px;
+      height: 30px;
+      display: flex;
+      align-self:center;
+      justify-content: space-between;
+       align-items: center;
+       padding-top: 15px;
+       padding-bottom: 15px;
+
+}
+      .benitopic{
+        width: 216px;
+        height: 288px;
+        
+       
+      }
+      .benitocontainer2{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+      }

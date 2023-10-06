@@ -1,0 +1,123 @@
+
+
+      .div1{
+        height:1500px;
+        background-image: url(imgs/botmousieyard.png);
+        background-position: center;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .divcenter{
+        height: 1100px;
+        width: 1100px;
+        background-image: url(imgs/botmousieyard.png);
+        background-size: cover;
+        background-position: center;
+        margin-top: 100px;
+        border-radius: 3px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;   
+
+      }
+      .botmousielink{
+        width: 1050px;
+        height: 100px;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 700px;
+        font-family: 'Italiana', serif;
+        font-size: 120px
+
+      }
+      .botname{
+        display: flex;
+        margin-left: 50px;
+        color:antiquewhite ;
+        text-decoration: none;
+        
+        
+        
+       
+      }
+      .mousiename{
+        display: flex;
+        flex-basis: auto;
+        margin-right: 50px;
+        color: antiquewhite;
+        text-decoration: none;
+        
+        
+        
+      }
+      .botname:visited{ 
+        text-decoration: none;
+        color:antiquewhite;     
+       }
+
+      .mousiename:visited{
+          text-decoration: none;
+          color: antiquewhite;
+        }
+      .botname:hover{
+        cursor: pointer;
+      }
+      .mousiename:hover{
+        cursor: pointer;
+      }
+      .navmenu{
+        margin-top: ;
+        width:300px;
+        height: 30px;
+        display: flex;
+        justify-content: space-between;
+        align-items:center;
+        font-family: 'Italiana', serif;
+        font-size: 16px;
+        flex-direction: column;
+        margin-bottom: 74px;
+      
+
+      }
+      .ourfriends{
+        color: antiquewhite;
+        text-decoration: none;
+      }
+      .ourfriends:link{
+        color: antiquewhite;
+        text-decoration: none;
+      }
+      .ourfriends:visited{
+        color: antiquewhite;
+        text-decoration: none;
+      }
+      .gallery{
+        color: antiquewhite;
+        text-decoration: none;
+      }
+      .gallery:link{
+        color: antiquewhite;
+        text-decoration: none;
+      }
+      .gallery:visited{
+        color: antiquewhite;
+        text-decoration: none;
+      }
+      .contactus{
+        color: antiquewhite;
+        text-decoration: none;
+
+      }
+      .contactus:link{
+        color: antiquewhite;
+        text-decoration: none;
+
+      }
+      .contactus:visited{
+        color: antiquewhite;
+        text-decoration: none;
+
+      }
